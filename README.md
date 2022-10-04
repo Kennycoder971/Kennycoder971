@@ -8,4 +8,5 @@ Je suis un apprenti programmeur et j'aime écrire du code, automatiser des proce
 - 📚 En ce moment j'étudie Nextjs et React.
 - 👯 Je suis à la recherche d'une alternance.
 - 📫 Vous pouvez me contacter sur : [Linkedin](https://www.linkedin.com/in/kenny-delver) [Gmail](mailto:kennycoder971@gmail.com).
+- 🖥️ Mon portfolio : [Portfolio](https://www.kennydelver.com/) 
 
