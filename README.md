@@ -4,8 +4,8 @@
 
 Je suis un apprenti programmeur et j'aime écrire du code, automatiser des process et créer des applications web.
 
-- 🔭 Je suis étudiant dans un bachelor de concepteur/développeur d'applications chez Simplon.
-- 📚 En ce moment j'étudie Nextjs et React.
+- 🔭 Je suis étudiant chez Simplon dans une formation de concepteur/développeur d'applications.
+- 📚 En ce moment j'étudie Java, mais mes points forts sont Nextjs et React.
 - 👯 Je suis à la recherche d'une alternance.
 - 📫 Vous pouvez me contacter sur : [Linkedin](https://www.linkedin.com/in/kenny-delver) [Gmail](mailto:kennycoder971@gmail.com).
 - 🖥️ Mon portfolio : [Portfolio](https://www.kennydelver.com/) 
