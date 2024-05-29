@@ -4,7 +4,7 @@
 
 Je suis un apprenti programmeur et j'aime écrire du code, automatiser des process et créer des applications web.
 
-- 🔭 Je suis étudiant dans un bachelor de concepteur/développeur d'applications chez Doranco.
+- 🔭 Je suis étudiant dans un bachelor de concepteur/développeur d'applications chez Simplon.
 - 📚 En ce moment j'étudie Nextjs et React.
 - 👯 Je suis à la recherche d'une alternance.
 - 📫 Vous pouvez me contacter sur : [Linkedin](https://www.linkedin.com/in/kenny-delver) [Gmail](mailto:kennycoder971@gmail.com).
